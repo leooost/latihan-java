@@ -11,4 +11,5 @@
         <maven.compiler.target>22</maven.compiler.target>
         <exec.mainClass>com.mycompany.bebas2.Bebas2</exec.mainClass>
     </properties>
+    <name>latihan.javaPBO</name>
 </project>
